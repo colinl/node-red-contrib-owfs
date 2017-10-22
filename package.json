@@ -9,7 +9,7 @@
         "url":"https://github.com/njh/node-red-contrib-owfs.git"
     },
     "dependencies": {
-        "owfs": "~0.2.1",
+        "owfs": "~0.3.2",
         "async": "1.5.x",
         "bluebird": "~3.3.5"
     },
